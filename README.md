@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vinicius Gomes! <br/><a Programmer</a>, <a href="www.linkedin.com/in/vinicius-capozzi-22a821191">Data Analyst</a>, <a href="www.linkedin.com/in/vinicius-capozzi-22a821191">Data Scientist</a></h1>
+<h1>Hi, I'm Vinicius Gomes! <br/> <a> Programmer</a>, <a> Data Analyst </a>, <a> Data Scientist </a></h1>
 
 <h2>👨‍💻 Data Analysis Projects</h2>
 

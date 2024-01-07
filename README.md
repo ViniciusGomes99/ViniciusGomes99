@@ -10,9 +10,9 @@
 - <b>Linear Regression</b>
   - [Link Linear Regression](https://github.com/ViniciusGomes99/LinearRegressionCS)
 - <b>KNNs Scripts</b>
-  - [KNNs Iris](https://github.com/ViniciusGomes99/KnnIris)
+  - [Link KNNs Iris](https://github.com/ViniciusGomes99/KnnIris)
 - <b>Decision Trees</b>
-  - [Decision Tree Titanic](https://github.com/ViniciusGomes99/DecisionTreeTitanic)
+  - [Link Decision Tree Titanic](https://github.com/ViniciusGomes99/DecisionTreeTitanic)
 
 <h2>⏲📝 Automation Projects</h2>
 
@@ -22,7 +22,7 @@
   <h2>📝 SQL Projects</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [SQL Automation](https://github.com/ViniciusGomes99/SQL_Automation)
+  - [Link SQL Automation](https://github.com/ViniciusGomes99/SQL_Automation)
 
 
 <h2> 🤳 Connect with me:</h2>

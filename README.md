@@ -1,43 +1,32 @@
-<h1>Hi, I'm Vinicius Gomes! <br/> <a> Programmer</a>, <a> Data Analyst </a>, <a> Data Scientist </a></h1>
+<h1>Hi, I'm Vinicius Gomes! <br/> <a> Programmer, Data Analyst and Data Scientist.</a></h1>
 
-<h2>👨‍💻 Data Analysis Projects</h2>
+<h2>📊📉Data Analysis and Science Projects</h2>
 
-- <b>Neural Nets For Forecasting Stock Prices</b>
-  - [Neural Net](https://github.com/ViniciusGomes99/Neural_Net)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Neural Nets For</b>
+  - [Link Neural Nets For Forecasting Stock Prices](https://github.com/ViniciusGomes99/Neural_Net)
+  - [Link Neural Nets For Forecasting Sales](https://github.com/ViniciusGomes99/NeuralNetBike)
+- <b>Data Visualization Cars Sales</b>
+  - [Link Data Visualization](https://github.com/ViniciusGomes99/DataVisualizationCarsSales)
+- <b>Linear Regression</b>
+  - [Link Linear Regression](https://github.com/ViniciusGomes99/LinearRegressionCS)
+- <b>KNNs Scripts</b>
+  - [KNNs Iris](https://github.com/ViniciusGomes99/KnnIris)
+- <b>Decision Trees</b>
+  - [Decision Tree Titanic](https://github.com/ViniciusGomes99/DecisionTreeTitanic)
 
-<h2>📺 Data Science Projects</h2>
+<h2>⏲📝 Automation Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Crawler</b>
+  - [Link Web Crawler](https://github.com/ViniciusGomes99/Crawler)
+ 
+  <h2>📝 SQL Projects</h2>
+
+- <b>Data Structures and Algorithms Practice</b>
+  - [SQL Automation](https://github.com/ViniciusGomes99/SQL_Automation)
+
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https:www.linkedin.com/in/vinicius-capozzi-22a821191
+[linkedin]: https://www.linkedin.com/in/vinicius-capozzi/

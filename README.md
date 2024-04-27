@@ -22,6 +22,7 @@
   <h2>📝 SQL Projects</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
+  - [Link Exploratory Data Analysis](https://github.com/ViniciusGomes99/AirbnbExploratoryDataAnalysis)
   - [Link SQL Automation](https://github.com/ViniciusGomes99/SQL_Automation)
 
 
